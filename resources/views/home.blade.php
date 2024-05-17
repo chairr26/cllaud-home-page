@@ -1,489 +1,297 @@
 <!DOCTYPE html>
 <html>
 <head lang="en">
-    <meta charset="UTF-8">
-    <title>La Umang</title>
+	<meta charset="UTF-8">
+	<title>La Umang</title>
 
-    <meta name="keywords" content="Chairrul La Umang, La Umang">
-    <meta name="description" content="Website personal Chairrul La Umang">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"/>
+	<meta name="keywords" content="Chairrul La Umang, La Umang">
+	<meta name="description" content="Website personal Chairrul La Umang">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"/>
 
-    <link rel="shortcut icon" href="images/favicon.ico" title="Favicon"/>
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/namari-color.css">
-    <link rel="stylesheet" href="css/font-awesome.min.css">
-    <link href="css/animate.css" rel="stylesheet" type="text/css">
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
+	<link rel="shortcut icon" href="images/favicon.ico" title="Favicon"/>
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="css/namari-color.css">
+	<link rel="stylesheet" href="css/font-awesome.min.css">
+	<link href="css/animate.css" rel="stylesheet" type="text/css">
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
 </head>
 <body>
 
-<div id="preloader">
-    <div id="status" class="la-ball-triangle-path">
-        <div></div>
-        <div></div>
-        <div></div>
-    </div>
-</div>
-<!--End of Preloader-->
-
-<div class="page-border" data-wow-duration="0.7s" data-wow-delay="0.2s">
-    <div class="top-border wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;"></div>
-    <div class="right-border wow fadeInRight animated" style="visibility: visible; animation-name: fadeInRight;"></div>
-    <div class="bottom-border wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;"></div>
-    <div class="left-border wow fadeInLeft animated" style="visibility: visible; animation-name: fadeInLeft;"></div>
-</div>
-
-<div id="wrapper">
-
-    <header id="banner" class="scrollto clearfix" data-enllax-ratio=".5">
-        <div id="header" class="nav-collapse">
-            <div class="row clearfix">
-                <div class="col-1">
-
-                    <div id="logo">
-                        <h1 class="mainlogo">CLLAUD</h1>
-
-                    </div>
-
-                    <aside>
-
-                        <ul class="social-icons">
-                            <li>
-                                <a target="_blank" title="Email" href="mailto:chairr26@gmail.com">
-                                    <i class="fa fa-envelope fa-1x"></i><span>Email</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a target="_blank" title="Github" href="https://github.com/chairr26">
-                                    <i class="fa fa-github fa-1x"></i><span>Github</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a target="_blank" title="Instagram" href="http://www.instagram.com/shootthecllaud">
-                                    <i class="fa fa-instagram fa-1x"></i><span>Instagram</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a target="_blank" title="Linkedin" href="https://www.linkedin.com/in/laumang/">
-                                    <i class="fa fa-linkedin fa-1x"></i><span>Linkedin</span>
-                                </a>
-                            </li>
-                        </ul>
-
-                    </aside>
-
-                    <nav id="nav-main">
-                        <ul>
-                            <li>
-                                <a href="#banner">Home</a>
-                            </li>
-                            <li>
-                                <a href="#works">works</a>
-                            </li>
-                            <li>
-                                <a href="#services">Services</a>
-                            </li>
-                            <li>
-                                <a href="#testimonials">Testimonials</a>
-                            </li>
-                            <li>
-                                <a href="#clients">Clients</a>
-                            </li>
-                            <li>
-                                <a href="#pricing">Pricing</a>
-                            </li>
-                        </ul>
-                    </nav>
-
-                    <div id="nav-trigger"><span></span></div>
-                    <nav id="nav-mobile"></nav>
-
-                </div>
-            </div>
-        </div>
-
-        <div id="banner-content" class="row clearfix">
-
-            <div class="col-38">
-
-                    <h1>THE "D" IS SHORT OF DREAM</h1>
-                    <h2>5 years of hands-on experience in PHP, CSS, JavaScript, and various frameworks and databases.</h2>
-               
-
-                <a href="#about" class="button">DISCOVER ME!</a>
-
-            </div>
-
-        </div><!--End of Row-->
-    </header>
-
-    <!--Main Content Area-->
-    <main id="content">
-
-        <!--Introduction-->
-        <section id="works" class="introduction scrollto">
-
-            <div class="row clearfix">
-
-                <div class="col-3">
-                    <div class="section-heading">
-                        <p class="section-subtitle">I am a web programmer with more than 5 years of hands-on experience. I hold a degree in Computer Science from Bina Nusantara University. Proficient in various programming languages including PHP, CSS, and JavaScript, along with expertise in several programming frameworks and databases.</p>
-                    </div>
-
-                </div>
-
-                <div class="col-2-3">
-
-                    <div class="col-2 icon-block icon-top wow fadeInUp" data-wow-delay="0.1s">
-                        <div class="icon">
-                            <i class="fa fa-html5 fa-2x"></i>
-                        </div>
-                        <div class="icon-block-description">
-                            <h4>HTML5 &amp; CSS3</h4>
-                            <p>Has ne tritani atomorum conclusionemque, in dolorum volumus cotidieque eum. At vis choro
-                                neglegentur iudico</p>
-                        </div>
-                    </div>
-
-                    <div class="col-2 icon-block icon-top wow fadeInUp" data-wow-delay="0.3s">
-                        <div class="icon">
-                            <i class="fa fa-bolt fa-2x"></i>
-                        </div>
-                        <div class="icon-block-description">
-                            <h4>Easy to Use</h4>
-                            <p>Cu vero ipsum vim, doctus facilisi sea in. Eam ex falli honestatis repudiandae, sit
-                                detracto mediocrem disputationi</p>
-                        </div>
-                    </div>
-
-                    <div class="col-2 icon-block icon-top wow fadeInUp" data-wow-delay="0.5s">
-                        <div class="icon">
-                            <i class="fa fa-tablet fa-2x"></i>
-                        </div>
-                        <div class="icon-block-description">
-                            <h4>Fully Responsive</h4>
-                            <p>Id porro tritani recusabo usu, eum intellegam consequuntur et. Fugit debet ea sit, an pro
-                                nemore vivendum</p>
-                        </div>
-                    </div>
-
-                    <div class="col-2 icon-block icon-top wow fadeInUp" data-wow-delay="0.5s">
-                        <div class="icon">
-                            <i class="fa fa-rocket fa-2x"></i>
-                        </div>
-                        <div class="icon-block-description">
-                            <h4>Parallax Effect</h4>
-                            <p>Id porro tritani recusabo usu, eum intellegam consequuntur et. Fugit debet ea sit, an pro
-                                nemore vivendum</p>
-                        </div>
-                    </div>
-
-                </div>
-
-            </div>
-
-
-        </section>
-
-
-        
-
-        <!--Content Section-->
-        <div id="services" class="scrollto clearfix">
-
-            <div class="row no-padding-bottom clearfix">
-
-
-                <!--Content Left Side-->
-                <div class="col-3">
-                    <!--User Testimonial-->
-                    <blockquote class="testimonial text-right bigtest">
-                        <q>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore
-                            et dolore magna aliqua</q>
-                        <footer>— John Doe, Happy Customer</footer>
-                    </blockquote>
-                    <!-- End of Testimonial-->
-
-                </div>
-                <!--End Content Left Side-->
-
-                <!--Content of the Right Side-->
-                <div class="col-3">
-                    <div class="section-heading">
-                        <h3>BELIEVING</h3>
-                        <h2 class="section-title">Focusing On What Matters Most</h2>
-                        <p class="section-subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam!</p>
-                    </div>
-                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
-                        totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-                        dicta sunt explicabo.
-                    </p>
-                    <p>
-                        Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-                        consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
-                        Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet!
-                    </p>
-                    <!-- Just replace the Video ID "UYJ5IjBRlW8" with the ID of your video on YouTube (Found within the URL) -->
-                    <a href="#" data-videoid="UYJ5IjBRlW8" data-videosite="youtube" class="button video link-lightbox">
-                        WATCH VIDEO <i class="fa fa-play" aria-hidden="true"></i>
-                    </a>
-                </div>
-                <!--End Content Right Side-->
-
-                <div class="col-3">
-                    <img src="images/dancer.jpg" alt="Dancer"/>
-                </div>
-
-            </div>
-
-
-        </div>
-        <!--End of Content Section-->
-
-        <!--Testimonials-->
-        <aside id="testimonials" class="scrollto text-center" data-enllax-ratio=".2">
-
-            <div class="row clearfix">
-
-                <div class="section-heading">
-                    <h3>FEEDBACK</h3>
-                    <h2 class="section-title">What our customers are saying</h2>
-                </div>
-
-                <!--User Testimonial-->
-                <blockquote class="col-3 testimonial classic">
-                    <img src="images/user-images/user-1.jpg" alt="User"/>
-                    <q>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                        labore
-                        et dolore magna aliqua</q>
-                    <footer>John Doe - Happy Customer</footer>
-                </blockquote>
-                <!-- End of Testimonial-->
-
-                <!--User Testimonial-->
-                <blockquote class="col-3 testimonial classic">
-                    <img src="images/user-images/user-2.jpg" alt="User"/>
-                    <q>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                        labore
-                        et dolore magna aliqua</q>
-                    <footer>Roslyn Doe - Happy Customer</footer>
-                </blockquote>
-                <!-- End of Testimonial-->
-
-                <!--User Testimonial-->
-                <blockquote class="col-3 testimonial classic">
-                    <img src="images/user-images/user-3.jpg" alt="User"/>
-                    <q>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                        labore
-                        et dolore magna aliqua</q>
-                    <footer>Thomas Doe - Happy Customer</footer>
-                </blockquote>
-                <!-- End of Testimonial-->
-
-            </div>
-
-        </aside>
-        <!--End of Testimonials-->
-
-        <!--Clients-->
-        <section id="clients" class="scrollto clearfix">
-            <div class="row clearfix">
-
-                <div class="col-3">
-
-                    <div class="section-heading">
-                        <h3>TRUST</h3>
-                        <h2 class="section-title">Companies who use our services</h2>
-                        <p class="section-subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                            eiusmod
-                            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam!</p>
-                    </div>
-
-                </div>
-
-                <div class="col-2-3">
-
-                    <a href="#" class="col-3">
-                        <img src="images/company-images/company-logo1.png" alt="Company"/>
-                        <div class="client-overlay"><span>Tree</span></div>
-                    </a>
-                    <a href="#" class="col-3">
-                        <img src="images/company-images/company-logo2.png" alt="Company"/>
-                        <div class="client-overlay"><span>Fingerprint</span></div>
-                    </a>
-                    <a href="#" class="col-3">
-                        <img src="images/company-images/company-logo3.png" alt="Company"/>
-                        <div class="client-overlay"><span>The Man</span></div>
-                    </a>
-                    <a href="#" class="col-3">
-                        <img src="images/company-images/company-logo4.png" alt="Company"/>
-                        <div class="client-overlay"><span>Mustache</span></div>
-                    </a>
-                    <a href="#" class="col-3">
-                        <img src="images/company-images/company-logo5.png" alt="Company"/>
-                        <div class="client-overlay"><span>Goat</span></div>
-                    </a>
-                    <a href="#" class="col-3">
-                        <img src="images/company-images/company-logo6.png" alt="Company"/>
-                        <div class="client-overlay"><span>Justice</span></div>
-                    </a>
-                    <a href="#" class="col-3">
-                        <img src="images/company-images/company-logo7.png" alt="Company"/>
-                        <div class="client-overlay"><span>Ball</span></div>
-                    </a>
-                    <a href="#" class="col-3">
-                        <img src="images/company-images/company-logo8.png" alt="Company"/>
-                        <div class="client-overlay"><span>Cold</span></div>
-                    </a>
-
-                    <a href="#" class="col-3">
-                        <img src="images/company-images/company-logo9.png" alt="Company"/>
-                        <div class="client-overlay"><span>Cold</span></div>
-                    </a>
-
-                </div>
-
-            </div>
-        </section>
-        <!--End of Clients-->
-
-        <!--Pricing Tables-->
-        <section id="pricing" class="secondary-color text-center scrollto clearfix ">
-            <div class="row clearfix">
-
-                <div class="section-heading">
-                    <h3>YOUR CHOICE</h3>
-                    <h2 class="section-title">We have the right package for you</h2>
-                </div>
-
-                <!--Pricing Block-->
-                <div class="pricing-block col-3 wow fadeInUp" data-wow-delay="0.4s">
-                    <div class="pricing-block-content">
-                        <h3>Personal</h3>
-                        <p class="pricing-sub">The standard version</p>
-                        <div class="pricing">
-                            <div class="price"><span>$</span>19</div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-                        </div>
-                        <ul>
-                            <li>5 Downloads</li>
-                            <li>2 Extensions</li>
-                            <li>Tutorials</li>
-                            <li>Forum Support</li>
-                            <li>1 year free updates</li>
-                        </ul>
-                        <a href="#" class="button">BUY TODAY</a>
-                    </div>
-                </div>
-                <!--End Pricing Block-->
-
-                <!--Pricing Block-->
-                <div class="pricing-block featured col-3 wow fadeInUp" data-wow-delay="0.6s">
-                    <div class="pricing-block-content">
-                        <h3>Student</h3>
-                        <p class="pricing-sub">Most popular choice</p>
-                        <div class="pricing">
-                            <div class="price"><span>$</span>29</div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-                        </div>
-                        <ul>
-                            <li>15 Downloads</li>
-                            <li>5 Extensions</li>
-                            <li>Tutorials with Files</li>
-                            <li>Forum Support</li>
-                            <li>2 years free updates</li>
-                        </ul>
-                        <a href="#" class="button">BUY TODAY</a>
-                    </div>
-                </div>
-                <!--End Pricing Block-->
-
-                <!--Pricing Block-->
-                <div class="pricing-block col-3 wow fadeInUp" data-wow-delay="0.8s">
-                    <div class="pricing-block-content">
-                        <h3>Business</h3>
-                        <p class="pricing-sub">For the whole team</p>
-                        <div class="pricing">
-                            <div class="price"><span>$</span>49</div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-                        </div>
-                        <ul>
-                            <li>Unlimited Downloads</li>
-                            <li>Unlimited Extensions</li>
-                            <li>HD Video Tutorials</li>
-                            <li>Chat Support</li>
-                            <li>Lifetime free updates</li>
-                        </ul>
-                        <a href="#" class="button">BUY TODAY</a>
-                    </div>
-                </div>
-                <!--End Pricing Block-->
-
-            </div>
-        </section>
-        <!--End of Pricing Tables-->
-
-    </main>
-    <!--End Main Content Area-->
-
-
-    <!--Footer-->
-    <footer id="landing-footer" class="clearfix">
-        <div class="row clearfix">
-
-            <p id="copyright" class="col-2">Made with love by <a href="https://www.shapingrain.com">ShapingRain</a></p>
-
-            <!--Social Icons in Footer-->
-            <ul class="col-2 social-icons">
-                <li>
-                    <a target="_blank" title="Facebook" href="https://www.facebook.com/username">
-                        <i class="fa fa-facebook fa-1x"></i><span>Facebook</span>
-                    </a>
-                </li>
-                <li>
-                    <a target="_blank" title="Google+" href="http://google.com/+username">
-                        <i class="fa fa-google-plus fa-1x"></i><span>Google+</span>
-                    </a>
-                </li>
-                <li>
-                    <a target="_blank" title="Twitter" href="http://www.twitter.com/username">
-                        <i class="fa fa-twitter fa-1x"></i><span>Twitter</span>
-                    </a>
-                </li>
-                <li>
-                    <a target="_blank" title="Instagram" href="http://www.instagram.com/username">
-                        <i class="fa fa-instagram fa-1x"></i><span>Instagram</span>
-                    </a>
-                </li>
-                <li>
-                    <a target="_blank" title="behance" href="http://www.behance.net">
-                        <i class="fa fa-behance fa-1x"></i><span>Behance</span>
-                    </a>
-                </li>
-            </ul>
-            <!--End of Social Icons in Footer-->
-        </div>
-    </footer>
-    <!--End of Footer-->
-
-</div>
-
-<!-- Include JavaScript resources -->
-<script src="js/jquery.1.8.3.min.js"></script>
-<script src="js/wow.min.js"></script>
-<script src="js/featherlight.min.js"></script>
-<script src="js/featherlight.gallery.min.js"></script>
-<script src="js/jquery.enllax.min.js"></script>
-<script src="js/jquery.scrollUp.min.js"></script>
-<script src="js/jquery.easing.min.js"></script>
-<script src="js/jquery.stickyNavbar.min.js"></script>
-<script src="js/jquery.waypoints.min.js"></script>
-<script src="js/images-loaded.min.js"></script>
-<script src="js/lightbox.min.js"></script>
-<script src="js/site.js"></script>
-
+	<div id="preloader">
+		<div id="status" class="la-ball-triangle-path">
+			<div></div>
+			<div></div>
+			<div></div>
+		</div>
+	</div>
+	<!--End of Preloader-->
+
+	<div class="page-border" data-wow-duration="0.7s" data-wow-delay="0.2s">
+		<div class="top-border wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;"></div>
+		<div class="right-border wow fadeInRight animated" style="visibility: visible; animation-name: fadeInRight;"></div>
+		<div class="bottom-border wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;"></div>
+		<div class="left-border wow fadeInLeft animated" style="visibility: visible; animation-name: fadeInLeft;"></div>
+	</div>
+
+	<div id="wrapper">
+
+		<header id="banner" class="scrollto clearfix" data-enllax-ratio=".5">
+			<div id="header" class="nav-collapse">
+				<div class="row clearfix">
+					<div class="col-1">
+
+						<div id="logo">
+							<h1 class="mainlogo">CLLAUD</h1>
+
+						</div>
+
+						<aside>
+
+							<ul class="social-icons">
+								<li>
+									<a target="_blank" title="Email" href="mailto:chairr26@gmail.com">
+										<i class="fa fa-envelope fa-1x"></i><span>Email</span>
+									</a>
+								</li>
+								<li>
+									<a target="_blank" title="Github" href="https://github.com/chairr26">
+										<i class="fa fa-github fa-1x"></i><span>Github</span>
+									</a>
+								</li>
+								<li>
+									<a target="_blank" title="Instagram" href="http://www.instagram.com/shootthecllaud">
+										<i class="fa fa-instagram fa-1x"></i><span>Instagram</span>
+									</a>
+								</li>
+								<li>
+									<a target="_blank" title="Linkedin" href="https://www.linkedin.com/in/laumang/">
+										<i class="fa fa-linkedin fa-1x"></i><span>Linkedin</span>
+									</a>
+								</li>
+							</ul>
+
+						</aside>
+
+						<nav id="nav-main">
+							<ul>
+								<li>
+									<a href="#banner">Home</a>
+								</li>
+								<li>
+									<a href="#works">works</a>
+								</li>
+								<li>
+									<a href="#about">ABOUT ME</a>
+								</li>
+								<li>
+									<a href="#hobbies">HOBBIES</a>
+								</li>
+							</ul>
+						</nav>
+
+						<div id="nav-trigger"><span></span></div>
+						<nav id="nav-mobile"></nav>
+
+					</div>
+				</div>
+			</div>
+
+			<div id="banner-content" class="row clearfix">
+
+				<div class="col-38">
+
+					<h1>WELL, THIS IS THE ONLY PHOTO I LIKE</h1>
+					<h2>And, I have 5 years of hands-on experience in PHP, CSS, JavaScript, and various frameworks and databases.</h2>
+					
+
+					<a href="#works" class="button">DISCOVER MY WORKS!</a>
+
+				</div>
+
+			</div>
+		</header>
+
+		<main id="content">
+
+			<section id="works" class="introduction scrollto">
+
+				<div class="row clearfix">
+
+					<div class="col-1">
+
+						<div class="col-3 icon-block icon-top wow fadeInUp" data-wow-delay="0.1s">
+							
+							<div class="icon-block-description">
+								<h4>Project 1</h4>
+								<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti praesentium voluptates ipsa</p>
+							</div>
+						</div>
+
+						<div class="col-3 icon-block icon-top wow fadeInUp" data-wow-delay="0.3s">
+							
+							<div class="icon-block-description">
+								<h4>Project 2</h4>
+								<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Autem doloribus harum repudiandae expedita? Magni!</p>
+							</div>
+						</div>
+
+						<div class="col-3 icon-block icon-top wow fadeInUp" data-wow-delay="0.5s">
+							
+							<div class="icon-block-description">
+								<h4>Project 3</h4>
+								<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto, quos!</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-1">
+
+						<div class="col-3 icon-block icon-top wow fadeInUp" data-wow-delay="0.1s">
+							
+							<div class="icon-block-description">
+								<h4>Project 4</h4>
+								<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti praesentium voluptates ipsa</p>
+							</div>
+						</div>
+
+						<div class="col-3 icon-block icon-top wow fadeInUp" data-wow-delay="0.3s">
+							
+							<div class="icon-block-description">
+								<h4>Project 5</h4>
+								<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Autem doloribus harum repudiandae expedita? Magni!</p>
+							</div>
+						</div>
+
+						<div class="col-3 icon-block icon-top wow fadeInUp" data-wow-delay="0.5s">
+							
+							<div class="icon-block-description">
+								<h4>Project 6</h4>
+								<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto, quos!</p>
+							</div>
+						</div>
+					</div>
+
+				</div>
+
+
+			</section>
+
+
+			
+
+			<div id="about" class="scrollto clearfix">
+
+				<div class="row no-padding-bottom clearfix">
+
+
+					<div class="col-3 wow fadeInUp" data-wow-delay="0.1s">
+						<blockquote class="testimonial text-right bigtest">
+							<q>I am a web programmer with more than 5 years of hands-on experience. I hold a degree in Computer Science from Bina Nusantara University. Proficient in various programming languages including PHP, CSS, and JavaScript, along with expertise in several programming frameworks and databases.</q>
+							<footer>— Me, copying my linkedin description</footer>
+						</blockquote>
+
+					</div>
+
+					<div class="col-3 wow fadeInUp" data-wow-delay="0.3s">
+						<div class="section-heading">
+							<h3>ACCIDENTALLY</h3>
+							<h2 class="section-title">I THOUGHT MAKING A WEB IS BY DRAWING (ONLY)</h2>
+							
+						</div>
+						<p>I didn't intend to go to IT school or study programming, but when I was in junior high school I was attracted to an advertisement for a web design major at a vocational school. I thought they all of this websites by drawing, but it turned out to be coding.
+						</p>
+						<?php
+							$startYear = 2016;
+							$currentYear = date("Y");
+							$yearsInProgramming = $currentYear - $startYear;
+						?>
+						<p>
+							Dang, I don't even know what the heck coding is. How can codes turn into a very beautiful website?
+						</p>
+						<p>
+							In the end I'm in this world of programming for the last <?php echo $yearsInProgramming; ?> years and I'm enjoying it. But do you know what I enjoy most?
+						</p>
+						<a href="#hobbies" class="button link-lightbox">
+							GO NEXT
+						</a>
+					</div>
+
+					<div class="col-3 wow fadeInUp" data-wow-delay="0.5s">
+						<img src="images/gallery-images/me2.jpg" alt="picture of me"/>
+					</div>
+
+				</div>
+
+
+			</div>
+
+
+			<aside id="hobbies" class="row text-center scrollto clearfix" data-featherlight-gallery data-featherlight-filter="a">
+				
+			<div class="col-2-3 wow fadeInUp" data-wow-delay="0.1s">
+					
+					<iframe src="https://snapwidget.com/embed/1067884" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:765px; height:765px" title="Posts from Instagram"></iframe>
+				</div>
+
+                <div class="col-3 wow text-left fadeInUp" data-wow-delay="0.3s">
+					<h4>Do you think i love photography?</h4>
+					<p>Well it is not. I like to travel, even when I have no money LOL.</p>
+					<p>Traveling to new places makes me forget about work for a moment. Walk to enjoy views of both the city and nature. In fact, I actually want to be a travel vlogger or something, but it seems like that's not my talent.</p>
+				</div>
+
+			</aside>
+
+			
+
+		
+
+		</main>
+
+
+		<footer id="landing-footer" class="clearfix">
+			<div class="row clearfix">
+
+				<p id="copyright" class="col-2">Thanks to <a href="https://www.shapingrain.com">ShapingRain</a></p>
+
+				<ul class=" col-2 social-icons">
+					<li>
+						<a target="_blank" title="Email" href="mailto:chairr26@gmail.com">
+							<i class="fa fa-envelope fa-1x"></i><span>Email</span>
+						</a>
+					</li>
+					<li>
+						<a target="_blank" title="Github" href="https://github.com/chairr26">
+							<i class="fa fa-github fa-1x"></i><span>Github</span>
+						</a>
+					</li>
+					<li>
+						<a target="_blank" title="Instagram" href="http://www.instagram.com/shootthecllaud">
+							<i class="fa fa-instagram fa-1x"></i><span>Instagram</span>
+						</a>
+					</li>
+					<li>
+						<a target="_blank" title="Linkedin" href="https://www.linkedin.com/in/laumang/">
+							<i class="fa fa-linkedin fa-1x"></i><span>Linkedin</span>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</footer>
+
+	</div>
+
+	<script src="js/jquery.1.8.3.min.js"></script>
+	<script src="js/wow.min.js"></script>
+	<script src="js/featherlight.min.js"></script>
+	<script src="js/featherlight.gallery.min.js"></script>
+	<script src="js/jquery.enllax.min.js"></script>
+	<script src="js/jquery.scrollUp.min.js"></script>
+	<script src="js/jquery.easing.min.js"></script>
+	<script src="js/jquery.stickyNavbar.min.js"></script>
+	<script src="js/jquery.waypoints.min.js"></script>
+	<script src="js/images-loaded.min.js"></script>
+	<script src="js/lightbox.min.js"></script>
+	<script src="js/site.js"></script>
+	<script src="//www.instagram.com/embed.js"></script>
 
 </body>
 </html>
